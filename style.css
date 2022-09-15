@@ -51,6 +51,7 @@ main {
     max-width: 580px;
     width: 90%;
     margin: auto;
+    margin-bottom: 32px;
     display: grid;
     gap: 24px;
 }
